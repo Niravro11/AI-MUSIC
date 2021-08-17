@@ -19,3 +19,11 @@ body
     margin: 15px;
     border-radius: 0px;
 }
+.button {
+  width: 150px;
+  font-size: 25px;
+}
+canvas {
+  border: 5px solid white;
+  border-radius: 25px;
+}
